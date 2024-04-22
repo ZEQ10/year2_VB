@@ -1,0 +1,15 @@
+E:\Source Visual Studio\Quanlyxekhach_TDQ\bin\Debug\Quanlyxekhach_TDQ.exe.config
+E:\Source Visual Studio\Quanlyxekhach_TDQ\bin\Debug\Quanlyxekhach_TDQ.exe
+E:\Source Visual Studio\Quanlyxekhach_TDQ\bin\Debug\Quanlyxekhach_TDQ.pdb
+E:\Source Visual Studio\Quanlyxekhach_TDQ\bin\Debug\Quanlyxekhach_TDQ.xml
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.Home.resources
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.Resources.resources
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.vbproj.GenerateResource.cache
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.exe
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.xml
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.pdb
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.Book.resources
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.Notify.resources
+E:\Source Visual Studio\Quanlyxekhach_TDQ\obj\Debug\Quanlyxekhach_TDQ.User.resources

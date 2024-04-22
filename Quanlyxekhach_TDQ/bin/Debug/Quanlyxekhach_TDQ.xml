@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quanlyxekhach_TDQ
+</name>
+</assembly>
+<members>
+<member name="T:Quanlyxekhach_TDQ.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources._8b6c5d1dd2f5060ab3062d2c2a611feb_w200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources._8b6c5d1dd2f5060ab3062d2c2a611feb_w200__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.artwork_digital_art_nature_ruins_mountains_grass_2193221_wallhere_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_home_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_location_26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_location_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_location_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_notification_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_partly_cloudy_day_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_person_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_search_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_search_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_summer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.icons8_ticket_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.istockphoto_1363442691_612x612">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.photo_1608555307638_992062b31329">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.pngtree_background_abstract_modern_red_and_orange_image_908246">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.pngtree_gentle_and_cool_colorful_background_image_657158">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.pngtree_long_distance_bus_illustration_image_1470512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.pngtree_long_distance_bus_illustration_image_14705sss12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.SaveTik_co_7346235920070233352_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.SaveTik_co_7346755361359138066_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.SaveTik_co_7347363158811594002_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.SaveTik_co_7347730660309650706_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.stock_vector_weather_forecast_widget_concept_temperature_cloudiness_wind_direction_and_speed_amount_of_1944970438">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.stock_vector_website_or_mobile_app_ui_icon_set_for_weather_forecast_d_modern_glass_morphism_design_2132894283">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.stock_vector_website_or_mobile_app_ui_icon_set_for_weather_forecast_d_modern_glass_morphism_design_2132894283222">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.stock_vector_website_or_mobile_app_ui_icon_set_for_weather_forecast_d_modern_glass_morphism_design_213289428sfsdfsdfd3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.wallpaperflare_com_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quanlyxekhach_TDQ.My.Resources.Resources.wallpaperflare_com_wallpaper__10_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

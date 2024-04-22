@@ -1,0 +1,12 @@
+E:\Source Visual Studio\THLTTQ\4.thlttq2\bin\Debug\4.thlttq2.exe.config
+E:\Source Visual Studio\THLTTQ\4.thlttq2\bin\Debug\4.thlttq2.exe
+E:\Source Visual Studio\THLTTQ\4.thlttq2\bin\Debug\4.thlttq2.pdb
+E:\Source Visual Studio\THLTTQ\4.thlttq2\bin\Debug\4.thlttq2.xml
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\_4.thlttq2.Maytinh.resources
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\_4.thlttq2.Resources.resources
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.vbproj.GenerateResource.cache
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.exe
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.xml
+E:\Source Visual Studio\THLTTQ\4.thlttq2\obj\Debug\4.thlttq2.pdb

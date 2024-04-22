@@ -1,0 +1,36 @@
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\bin\Debug\TH_LTTQ.exe.config
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\bin\Debug\TH_LTTQ.exe
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\bin\Debug\TH_LTTQ.pdb
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\bin\Debug\TH_LTTQ.xml
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.BTChuong3.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.Calculate.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.Calculator1.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.Calculator2.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.DienTichHinhThang.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.Label_LinkLabel.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.Resources.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.RichTextBox.resources
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.exe
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.xml
+C:\Users\ADMIN\Documents\thuc_hanh_LTTQ_(2019ver)\TLTTQ\TH_LTTQ\obj\Debug\TH_LTTQ.pdb
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\bin\Debug\TH_LTTQ.exe.config
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\bin\Debug\TH_LTTQ.exe
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\bin\Debug\TH_LTTQ.pdb
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\bin\Debug\TH_LTTQ.xml
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.BTChuong3.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.Calculate.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.Calculator1.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.Calculator2.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.DienTichHinhThang.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.Label_LinkLabel.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.Resources.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.RichTextBox.resources
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.GenerateResource.cache
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.exe
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.xml
+E:\Source Visual Studio\TH_LTTQgk\TH_LTTQ\obj\Debug\TH_LTTQ.pdb

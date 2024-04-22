@@ -1,0 +1,15 @@
+E:\Source Visual Studio\GK\bin\Debug\GK.exe.config
+E:\Source Visual Studio\GK\bin\Debug\GK.exe
+E:\Source Visual Studio\GK\bin\Debug\GK.pdb
+E:\Source Visual Studio\GK\bin\Debug\GK.xml
+E:\Source Visual Studio\GK\obj\Debug\GK.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\GK\obj\Debug\GK.Resources.resources
+E:\Source Visual Studio\GK\obj\Debug\GK.vbproj.GenerateResource.cache
+E:\Source Visual Studio\GK\obj\Debug\GK.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\GK\obj\Debug\GK.exe
+E:\Source Visual Studio\GK\obj\Debug\GK.xml
+E:\Source Visual Studio\GK\obj\Debug\GK.pdb
+E:\Source Visual Studio\GK\obj\Debug\GK.bai1.resources
+E:\Source Visual Studio\GK\obj\Debug\GK.bai2.resources
+E:\Source Visual Studio\GK\obj\Debug\GK.btthigk.resources
+E:\Source Visual Studio\GK\obj\Debug\GK.bai3.resources

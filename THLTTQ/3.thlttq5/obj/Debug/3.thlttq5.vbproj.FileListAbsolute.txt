@@ -1,0 +1,6 @@
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\_3.thlttq5.Form5.resources
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\_3.thlttq5.Resources.resources
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\3.thlttq5.vbproj.GenerateResource.cache
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\3.thlttq5.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\3.thlttq5.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\THLTTQ\3.thlttq5\obj\Debug\_3.thlttq5.Form.resources

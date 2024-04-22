@@ -1,0 +1,12 @@
+E:\Source Visual Studio\THLTTQ\1.thlttq1\bin\Debug\1.thlttq1.exe.config
+E:\Source Visual Studio\THLTTQ\1.thlttq1\bin\Debug\1.thlttq1.exe
+E:\Source Visual Studio\THLTTQ\1.thlttq1\bin\Debug\1.thlttq1.pdb
+E:\Source Visual Studio\THLTTQ\1.thlttq1\bin\Debug\1.thlttq1.xml
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\_1.thlttq1.Form1.resources
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\_1.thlttq1.Resources.resources
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.vbproj.GenerateResource.cache
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.exe
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.xml
+E:\Source Visual Studio\THLTTQ\1.thlttq1\obj\Debug\1.thlttq1.pdb

@@ -1,0 +1,17 @@
+E:\Source Visual Studio\Baitapchuong3\bin\Debug\Baitapchuong3.exe.config
+E:\Source Visual Studio\Baitapchuong3\bin\Debug\Baitapchuong3.exe
+E:\Source Visual Studio\Baitapchuong3\bin\Debug\Baitapchuong3.pdb
+E:\Source Visual Studio\Baitapchuong3\bin\Debug\Baitapchuong3.xml
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Resources.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.vbproj.GenerateResource.cache
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.exe
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.xml
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.pdb
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19_Bai02.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19_Bai19.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19_Bai22.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19_Bai33.resources
+E:\Source Visual Studio\Baitapchuong3\obj\Debug\Baitapchuong3.Quy_19_Bai42.resources

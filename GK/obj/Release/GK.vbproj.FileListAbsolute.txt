@@ -1,0 +1,7 @@
+E:\Source Visual Studio\GK\obj\Release\GK.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\GK\obj\Release\GK.bai1.resources
+E:\Source Visual Studio\GK\obj\Release\GK.bai2.resources
+E:\Source Visual Studio\GK\obj\Release\GK.btthigk.resources
+E:\Source Visual Studio\GK\obj\Release\GK.Resources.resources
+E:\Source Visual Studio\GK\obj\Release\GK.vbproj.GenerateResource.cache
+E:\Source Visual Studio\GK\obj\Release\GK.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\Source Visual Studio\AllTest\bin\Debug\AllTest.exe.config
+E:\Source Visual Studio\AllTest\bin\Debug\AllTest.exe
+E:\Source Visual Studio\AllTest\bin\Debug\AllTest.pdb
+E:\Source Visual Studio\AllTest\bin\Debug\AllTest.xml
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.vbproj.AssemblyReference.cache
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.Form1.resources
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.Resources.resources
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.vbproj.GenerateResource.cache
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.vbproj.CoreCompileInputs.cache
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.exe
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.xml
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.pdb
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.Form2.resources
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.Form3.resources
+E:\Source Visual Studio\AllTest\obj\Debug\AllTest.Form4.resources
